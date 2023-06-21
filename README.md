@@ -1,10 +1,6 @@
 # Recipes Project
 
-
-
-## Project Structure
-
-
+This project is a website for showcasing recipes. It is built using HTML and CSS.
 
 ## Getting Started
 
